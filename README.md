@@ -20,11 +20,6 @@ void function()
     }
 }
 
-
-
-
-
-
 void function1()
 {
     int n;
@@ -41,11 +36,6 @@ void function1()
     }
 }
 
-
-
-
-
-
 void function2()
 {
     int n;
@@ -60,12 +50,6 @@ void function2()
         cout << endl;
     }
 }
-
-
-
-
-
-
 
 void function3()
 {
@@ -82,12 +66,6 @@ void function3()
         cout << endl;
     }
 }
-
-
-
-
-
-
 
 void function4()
 
@@ -112,12 +90,6 @@ void function4()
         cout << endl;
     }
 }
-
-
-
-
-
-
 
 void function5()
 {
@@ -148,13 +120,6 @@ void function5()
     }
 }
 
-
-
-
-
-
-
-
 void function6()
 {
     int n;
@@ -177,15 +142,6 @@ void function6()
         cout << endl;
     }
 }
-
-
-
-
-
-
-
-
-
 
 void function7()
 {
@@ -228,14 +184,6 @@ void function7()
 */   }
 }
 
-
-
-
-
-
-
-
-
 void function8()
 {
 
@@ -266,14 +214,6 @@ void function8()
 */   }
 }
 
-
-
-
-
-
-
-
-
 void function9()
 {
     int num = 1;
@@ -296,12 +236,6 @@ void function9()
 */  }
 }
 
-
-
-
-
-
-
 void function10()
 {
     int n;
@@ -323,12 +257,6 @@ ABCDE
 */    }
 }
 
-
-
-
-
-
-
 void function11()
 {
     int n;
@@ -349,14 +277,6 @@ A B
 A 
 */   }
 }
-
-
-
-
-
-
-
-
 
 void function12()
 {
@@ -382,13 +302,6 @@ void function12()
     }
 }
 
-
-
-
-
-
-
-
 void function13(){
 
  int n;
@@ -412,15 +325,6 @@ A B C D E
  */   
 
 }
-
-
-
-
-
-
-
-
-
 
 void function14(){
 
@@ -484,14 +388,6 @@ void function14(){
 */       
 }
 
-
-
-
-
-
-
-
-
 void function15(){
     int n;
     int space = 8;
@@ -519,16 +415,6 @@ void function15(){
     }
 }
 
-
-
-
-
-
-
-
-
-
-
 void function16(){
     int n;
     cout << "Enter the value of n to move forward :";
@@ -554,9 +440,6 @@ akshat@prog
  */
 }
     
-
-
-
 
 int main()
 {
