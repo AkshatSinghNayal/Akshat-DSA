@@ -2,11 +2,11 @@
 Here is the code for practise of DSA by (Akshat Nayal)
 This is for Pattern Printing
 
-
 #include <iostream>
 using namespace std;
 
-void function()
+
+    void function()
 {
     int n;
     cout << "enter the value of n :";
@@ -21,10 +21,8 @@ void function()
     }
 }
 
+    void function1()
 
-
-
-void function1()
 {
     int n;
     cout << "enter the value of n for the pattern :";
@@ -40,10 +38,8 @@ void function1()
     }
 }
 
+    void function2()
 
-
-
-void function2()
 {
     int n;
     cout << "enter the value of n :";
@@ -58,10 +54,8 @@ void function2()
     }
 }
 
+    void function3()
 
-
-
-void function3()
 {
 
     int n;
@@ -77,10 +71,7 @@ void function3()
     }
 }
 
-
-
-
-void function4()
+    void function4()
 
 {
     int n;
@@ -104,10 +95,8 @@ void function4()
     }
 }
 
+    void function5()
 
-
-
-void function5()
 {
 
     int n;
@@ -134,12 +123,10 @@ void function5()
         }
         cout << endl;
     }
-}
+    }
+    
+    void function6()
 
-
-
-
-void function6()
 {
     int n;
     cout << "enter the value of n so that the pattern works :";
@@ -162,14 +149,12 @@ void function6()
     }
 }
 
+    void function7()
 
-
-
-void function7()
 {
     int start = 1212;
     int n;
-    cout << "Enter the value of n ";
+        cout << "Enter the value of n ";
     cin >> n;
 
     for (int i = 0; i < n; i++)
@@ -185,31 +170,11 @@ void function7()
             start = 1 - start;
         }
         cout << endl;
-
-        /*
-        when n= 4
-
-        1=In the first row (i = 0), the value of start is initially set to 1. The inner loop prints the value of start and updates it using start =   1- start;. Therefore, start becomes 1 - 1 = 0.
-
-        2=In the second row (i = 1), the value of start is initially set to 0. The inner loop prints the value of start (0) and updates it using
-        start = 1 - start;. Therefore, start becomes 1 - 0 = 1.
-
-        3=n the third row (i = 2), the value of start is initially set to 1. The inner loop prints the value of start (1) and updates it using
-         start = 1 - start;. Therefore, start becomes 1 - 1 = 0.
-        */
- /*
- 1
-01
-101
-0101
-10101
-*/   }
+ }
 }
 
+    void function8()
 
-
-
-void function8()
 {
 
     int n;
@@ -230,19 +195,11 @@ void function8()
         {
             cout << j;
         }
-        cout << endl;
- /*
- 1      1
-12    21
-123  321
-12344321
-*/   }
+     }
 }
 
+    void function9()
 
-
-
-void function9()
 {
     int num = 1;
     int n;
@@ -255,19 +212,11 @@ void function9()
             cout << num << " ";
             num++;
         }
-        cout << endl;
-/*
-1 
-2 3 
-4 5 6 
-7 8 9 10 
-*/  }
+  }
 }
 
+    void function10()
 
-
-
-void function10()
 {
     int n;
     cout << "enter the value of n so that the pattern prints :";
@@ -278,20 +227,11 @@ void function10()
         {
             cout << ch;
         }
-        cout << endl;
-/*
-A
-AB
-ABC
-ABCD
-ABCDE
-*/    }
+ }
 }
 
+    void function11()
 
-
-
-void function11()
 {
     int n;
     cout << "enter the value of n so that the pattern prints :";
@@ -303,19 +243,11 @@ void function11()
             cout << ch << " ";
         }
         cout << endl;
-/*
-A B C D E 
-A B C D 
-A B C 
-A B 
-A 
-*/   }
+}
 }
 
+    void function12()
 
-
-
-void function12()
 {
     int num = 1;
     int n;
@@ -329,20 +261,13 @@ void function12()
             cout << ch << " ";
         }
         cout << endl;
-        /*
-        A
-        B B
-        C C C
-        D D D D
-        E E E E E
-        */
-    }
+ }
 }
 
 
 
-
-void function13(){
+    void function13(){
+    
 
  int n;
     cout << "Enter the value of n to move forward :";
@@ -354,22 +279,13 @@ void function13(){
             cout<<ch<<" ";
         }
         cout<<endl;
-    }
- /*
- Enter the value of n to move forward :5
-E 
-D E 
-C D E 
-B C D E 
-A B C D E 
- */   
-
+ }
+ 
 }
 
 
-
-
-void function14(){
+    void function14(){
+    
 
     int n;
     cout << "Enter the value of n to move forward :";
@@ -415,26 +331,11 @@ void function14(){
             ins=ins-2;
             cout<<endl;
             
-        }
-/*
-**********
-****  ****
-***    ***
-**      **
-*        *
-*        *
-**      **
-***    ***
-****  ****
-**********
-
-*/       
+             
 }
 
-
-
-
-void function15(){
+    void function15(){
+    
     int n;
     int space = 8;
     cout<<"enter the value of n for printing the pattern :";
@@ -461,10 +362,8 @@ void function15(){
     }
 }
 
+    void function16(){
 
-
-
-void function16(){
     int n;
     cout << "Enter the value of n to move forward :";
     cin >> n;
@@ -479,14 +378,7 @@ void function16(){
         }
         cout<<endl;
     }
- /*
-*****
-*   *
-*   *
-*   *
-*****
-akshat@prog
- */
+
 }
     
 
