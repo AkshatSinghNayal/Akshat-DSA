@@ -16,7 +16,7 @@ void function()
         {
             cout << "*";
         }
-        cout << endl;
+        cout << endl
     }
 }
 
