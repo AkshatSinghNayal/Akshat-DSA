@@ -412,8 +412,10 @@ Pattern 17
     
     }
 
+// To call those functions 
+
     int main (){
-        function();
+        function/*Name of function()*/();
         return 0;
         }    
     
