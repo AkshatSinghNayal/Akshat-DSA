@@ -2,8 +2,9 @@
 Here is the code for practise of DSA by (Akshat Nayal)
 This is for Pattern Printing
 
-    
-void function()
+Pattern 1
+
+        void function()
     
     {
         int n;
@@ -18,8 +19,10 @@ void function()
             cout << endl;
         }
     }
-    
-void function1()
+
+Pattern 2
+
+    void function1()
     
     {
         int n;
@@ -35,8 +38,10 @@ void function1()
             cout << endl;
         }
     }
-    
-void function2()
+
+Pattern 3
+
+    void function2()
     
     {
         int n;
@@ -51,8 +56,10 @@ void function2()
             cout << endl;
         }
     }
-    
-void function3()
+
+Pattern 4
+
+    void function3()
     
     {
     
@@ -69,7 +76,9 @@ void function3()
         }
     }
     
-void function4()
+Pattern 5
+
+    void function4()
     
     
     {
@@ -94,7 +103,9 @@ void function4()
         }
     }
     
-void function5()
+Pattern 6
+    
+    void function5()
     
     {
     
@@ -124,7 +135,9 @@ void function5()
         }
     }
     
-void function6()
+Pattern 7
+
+    void function6()
     
     {
         int n;
@@ -148,7 +161,9 @@ void function6()
         }
     }
     
-void function7()
+Pattern 8
+   
+    void function7()
     
     {
         int start = 1212;
@@ -171,8 +186,11 @@ void function7()
             cout << endl;
      }
     }
-    
-void function8()
+
+Pattern 9
+
+        
+    void function8()
     
     {
     
@@ -197,7 +215,9 @@ void function8()
          }
     }
     
-void function9()
+Pattern 10
+    
+    void function9()
     
     {
         int num = 1;
@@ -214,7 +234,9 @@ void function9()
       }
     }
     
-void function10()
+Pattern 11
+    
+    void function10()
     
     {
         int n;
@@ -229,7 +251,9 @@ void function10()
      }
     }
     
-void function11()
+Pattern 12
+
+    void function11()
     
     {
         int n;
@@ -244,8 +268,10 @@ void function11()
             cout << endl;
     }
     }
+
+Pattern 13
     
-void function12()
+    void function12()
     
     {
         int num = 1;
@@ -263,7 +289,9 @@ void function12()
     }
     }
     
-void function13(){
+Pattern 14
+    
+    void function13(){
         
     
      int n;
@@ -279,8 +307,10 @@ void function13(){
      }
      
     }
+
+Pattern 15
     
-void function14(){
+    void function14(){
         
     
         int n;
@@ -330,7 +360,9 @@ void function14(){
                  
     }
     
-void function15(){
+Pattern 16
+
+    void function15(){
         
         int n;
         int space = 8;
@@ -358,7 +390,10 @@ void function15(){
         }
     }
     
-void function16(){
+Pattern 17
+    
+    
+    void function16(){
     
         int n;
         cout << "Enter the value of n to move forward :";
@@ -376,5 +411,9 @@ void function16(){
         }
     
     }
-    
+
+    int main (){
+        function();
+        return 0;
+        }    
     
