@@ -117,15 +117,12 @@
         int sum = 0;
         cout << "Enter the number to check its a prime number or not :";
         cin >> n;
-        for (int i = 0; i < n; i++)
-        {
-            if (n % 2 == 0)
+         if (n % 2 == 0)
             {
                 cout << " Its not a prime number :";
             }
             else
                 cout << " Its a prime number boii !!";
-        }
     }
 
 
