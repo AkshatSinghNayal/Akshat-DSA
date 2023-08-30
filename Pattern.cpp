@@ -1,4 +1,5 @@
-
+#include <iostream>
+using namespace std;
 Pattern 1
 
         void function()
